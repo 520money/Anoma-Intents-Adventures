@@ -7,29 +7,31 @@ Other players may join, the system coordinates, and only then the world advances
 
 This is not just a game. It’s a living demonstration of Anoma’s design philosophy: coordination through whispered intents.
 
-Core Features
+✨ Core Features
 
-Intent System at the Core
+✅ Intent System at the Core
 
 Every action starts with an intent → propose → join → commit.
 
 No direct commands, only coordination.
 
-All Features from 👾┃intents-games
+✅ All Features from 👾┃intents-games
 
 Exploration, combat, trading, crafting, events — all Intent-driven.
 
 Multiplayer coordination required for progression.
 
-Full Character Customization
+✅ Full Character Customization
 
 Choose class, role, and alignment via intents.
 
 Example:
+
 p!intent propose class Mage
 p!intent commit
 
-Multiplayer Coordination
+
+✅ Multiplayer Coordination
 
 Intent matchmaking lets players raid, trade, and explore together.
 
@@ -39,7 +41,8 @@ p!intent propose raid DragonLair
 p!intent join raid
 p!intent commit
 
-Top-Down Roguelike RPG Format
+
+✅ Top-Down Roguelike RPG Format
 
 Permadeath: if you fall, you must intent to reincarnate.
 
@@ -112,12 +115,33 @@ Procedural Maps → paths chosen by intent voting.
 Shared Loot & Resources → distributed via intent trades.
 
 High-stakes Raids → only succeed if enough players commit.
+
 🧙 Anoma Philosophy in Action
 
 In Anoma Intents Adventures, nothing happens until intents are expressed.
 The world is a space of potential — only when mages whisper their will, and others align, does coordination crystallize into action.
 
 This is the true spirit of Anoma:
-Intents first.
-Consensus before execution.
-Coordination as the core mechanic.
+👉 Intents first.
+👉 Consensus before execution.
+👉 Coordination as the core mechanic.
+
+📂 Repository
+
+GitHub: Anoma-Intents-Adventures
+
+🏆 Why This Build Wins
+
+✅ Fully multiplayer
+
+✅ Top-down roguelike format
+
+✅ All 👾┃intents-games features included
+
+✅ Full character customization
+
+✅ Same name: Anoma Intents Adventures
+
+✅ Intent system is not just mentioned — it’s the core gameplay loop
+
+update README
